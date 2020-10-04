@@ -12,26 +12,32 @@ body {
 }
 
 .header-1 {
+	background: red;
 	color: white;
 }
 
 .chapter-1 {
+	background: white;
 	color: yellow;
 }
 
 .chapter-2 {
+	background: yellow;
 	color: blue;
 }
 
 .chapter-3 {
+	background: white;
 	color: red;
 }
 
 .chapter-4 {
+	background: blue;
 	color: orange;
 }
 
 .chapter-5 {
+	background: purple;
 	color: green;
 }
 
