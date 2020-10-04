@@ -1,0 +1,52 @@
+h1, h2 {
+	text-align: center;
+}
+
+body {
+	background-color: #aeaeae;
+}
+
+.brd {
+	border: 4px solid;
+	padding: 10px;
+}
+
+.header-1 {
+	color: white;
+}
+
+.chapter-1 {
+	color: yellow;
+}
+
+.chapter-2 {
+	color: blue;
+}
+
+.chapter-3 {
+	color: red;
+}
+
+.chapter-4 {
+	color: orange;
+}
+
+.chapter-5 {
+	color: green;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+.line-through {
+	text-decoration: line-through;
+}
+
+.italic {
+	font-style: italic;
+}
