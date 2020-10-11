@@ -1,0 +1,86 @@
+* {
+	box-sizing: border-box;
+	font-family: ArialMT;
+	font-weight: 400;
+}
+
+.box {
+	width: 1011px;
+	height: 504px;
+	margin-left:auto;
+	margin-right:auto;
+	border: 1px solid #d7d7d7;
+	background-color: #fffff;
+}
+
+.box-2 {
+	display: inline-block;
+	width: 394px;
+	height: 328px;
+	vertical-align: top;
+	margin-left: 99px;
+	margin-top: 95px;
+}
+
+.img {
+	display: inline-block;
+	width: 376px;
+	height: 375px;
+	margin-left: 49px;
+	margin-top: 65px;
+	vertical-align: top;
+}
+
+.name {
+	display: inline-block;
+/*	width: 178px;
+	height: 22px;*/
+	font-size: 23px;
+}
+
+.text {
+	display: inline-block;
+/*	width: 393px;
+	height: 50px;*/
+	margin-top: 30px;
+	margin-left: 1px;
+	font-size: 15px;
+	}
+
+.price {
+	display: inline-block;
+/*	width: 35px;
+	height: 14px;*/
+	margin-top: 55px;
+	margin-right: 358px;
+	margin-left: 1px;
+	font-size: 15px;
+}
+
+.rubles {
+	display: inline-block;
+/*	width: 103px;
+	height: 28px;*/
+	margin-top: 23px;
+	margin-right: 288px;
+	margin-left: 3px;
+	font-size: 30px;
+}
+
+.img-2 {
+	display: inline-block;
+	width: 253px;
+	height: 51px;
+	margin-top: 56px;
+	margin-right: 139px;
+	margin-left: 3px;
+	background-color: #ec744a;
+	border: none;
+}
+
+.text-for-button {
+/*	width: 174px;
+	height: 18px;*/
+	color: #ffffff;
+	font-size: 19px;
+}
